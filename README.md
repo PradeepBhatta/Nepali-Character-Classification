@@ -52,7 +52,7 @@ If you prefer running on Google Colab, don't forget to mount the google drive an
 - **Epochs**: The model was trained across 5 epochs. An epoch represents one complete cycle through the entire training dataset, which helps the model to improve its learning.
 - **Training Accuracy**: At the end of the 5th epoch, the model achieved a training accuracy of **97.60%**.
 - **Test Accuracy**: The final test accuracy was **98.49%**, indicating the model's effectiveness on data it hasn't previously seen.
-- **Loss**: The loss at the conclusion of the training was **0.0748**. A lower loss indicates that the model's predictions are closely aligned with the actual outcomes.
+- **Loss**: The loss at the conclusion of the training was **0.0748** indicating that the model's predictions are closely aligned with the actual outcomes.
 - **Total Images Trained**: Over the 5 epochs, the model processed a total of **391,000 images**.
 
 ## Conclusion
