@@ -47,7 +47,7 @@ This code is specifically designed to be run in a Jupyter Notebook (.ipynb forma
 If you prefer running on Google Colab, don't forget to mount the google drive and change the dataset path to match your Google Drive path.
 
 
-## 3. Model Training and Results
+## Model Training and Results
 
 - **Epochs**: The model was trained across 5 epochs. An epoch represents one complete cycle through the entire training dataset, which helps the model to improve its learning.
 - **Training Accuracy**: At the end of the 5th epoch, the model achieved a training accuracy of **97.60%**.
