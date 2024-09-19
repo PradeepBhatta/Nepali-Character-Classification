@@ -24,10 +24,10 @@ The project includes visualization scripts to display model predictions on a gri
 - **torchvision:** For dataset transformation.
 
 ## File Structure
-- │── main.ipynb           # Main Jupyter Notebook containing the whole code
-- │── dataset/dataset.npz  # Directory containing the dataset 
-- │── requirements.txt     # List of dependencies required for the project
-- │── README.md            # Project documentation (this file)
+- │── main.ipynb        # Main Jupyter Notebook containing the whole code
+- │── dataset/          # Directory containing the dataset 
+- │── requirements.txt  # List of dependencies required for the project
+- │── README.md         # Project documentation (this file)
 
 ## Execution
 ### Installing Dependencies
