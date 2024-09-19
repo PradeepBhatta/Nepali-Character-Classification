@@ -35,6 +35,7 @@ The project includes visualization scripts to display model predictions on a gri
  
 ```bash
 pip install -r requirements.txt
+```
 
 ### How To Run
 - Run the main.ipynb File.
