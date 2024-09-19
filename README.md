@@ -33,7 +33,7 @@ The project includes visualization scripts to display model predictions on a gri
 ### Install Dependencies
  Make sure you have Python installed. Then, install the required dependencies using the requirements.txt file :
 
-pip install -r requirements.txt
+'pip install -r requirements.txt'
 
 ### How To Run
 - Run the main.ipynb File.
