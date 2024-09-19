@@ -50,4 +50,4 @@ If you prefer running on Google Colab, don't forget to mount the google drive an
 - ### Anoma Tuladhar
 - ### Nairiti Rai
 - ### Pradeep Bhatta 
-- ### Samikshhya Dahal
+- ### Samikshya Dahal
