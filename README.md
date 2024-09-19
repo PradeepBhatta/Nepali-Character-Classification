@@ -19,7 +19,7 @@ The project includes visualization scripts to display model predictions on a gri
 
 ## Tech Stack Used: 
 - **PyTorch:** For building, training, and evaluating the CNN model. 
-- **NumPy:*** For loading and manipulating the dataset.
+- **NumPy:** For loading and manipulating the dataset.
 - **Matplotlib:** For visualizing the predictions. 
 - **torchvision:** For dataset transformation.
 
@@ -30,7 +30,7 @@ The project includes visualization scripts to display model predictions on a gri
 - │── README.md         # Project documentation (this file)
 
 ## Execution
-### Install Dependencies
+### Installing Dependencies
  Make sure you have Python installed. Then, install the required dependencies using the requirements.txt file :
  
 ```bash
