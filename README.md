@@ -57,10 +57,3 @@ If you prefer running on Google Colab, don't forget to mount the google drive an
 
 ## Conclusion
 The model successfully classifies Nepali handwritten characters with a high accuracy of **98.49%** on the test data after training for 5 epochs. The results show that the model is effective at generalizing to unseen data, making it a reliable solution for recognizing Nepali characters.
-
-
-## Authors: 
-- ### Anoma Tuladhar
-- ### Nairiti Rai
-- ### Pradeep Bhatta 
-- ### Samikshya Dahal
